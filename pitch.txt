@@ -1,0 +1,22 @@
+# Pitch 
+
+• Game idea: A car racing game
+
+• Characters’ actions and goals: Is for the player (they play a car) to win all 3 levels of the game against other cars.
+
+• Game Win/Lose conditions/ Progression of levels: You start with a car. In level 1, you can easily win against the opponent 
+	and your speed increases. The next level is harder, you have to win against a faster car. You can go back to level 1 and increase 
+	your exp to increase the speed of your car to win level 2. Then level 3 car is really fast so you have to redo previous levels 
+	to increase exp and when you get enough, increase speed, then win level 3.
+
+• Sources of inspiration: friends game + cars movie
+
+• Skills/Interests looking for in a team mate: 
+
+   - Not interested in violent games (e.g. shooting games, games including 
+   	graphic pictures of blood, etc. 
+   - Who can teach me stuff patiently if I don't know something
+   - A teammate who listens to others.
+   - A teammate who communicates.
+   - A teammate who is willing to use the others idea and not just consider his/her the best
+   - A teammate who is relaxed and calm but not lazy. 
